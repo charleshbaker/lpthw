@@ -1,0 +1,65 @@
+print   print                               Built in print function.
+#       Hash, pound sign, octothorpe(?)     Creates a comment or disables code
++       plus                                Addition operator and string
+                                            concatenation.
+/       forward slash                       Division operator
+-       minus, dash                         Subtraction operator
+*       star, asterik                       Multiplication operator
+%       percent, modulus                    Modulus (remainder division) operator
+                                            Also for output formatting
+<       less than                           Less than comparison operator
+                                            returns TRUE or FALSE
+=       equals                              Assignment operator
+()      parentheses                         Grouping for lists or precedences of
+                                            operations.
+"       double quote                        Used in pairs to wrap strings.
+'       single quote                        Used in pairs to wrap strings.
+,       comma                               Can be used to delineate elements of
+                                            lists. Can be used to combine print
+                                            statement output onto a single line.
+%s      string format
+%d      numeric format
+%r      raw format
+\n      new line                            Insert a new line into the output.
+\t      tab                                 Insert a tab into the output.
+\       back slash                          Escape the next character.
+"""     triple double quote                 Create a multiline string.
+'''     triple single quote                 Create a multiline string.
+_       underscore
+?       question mark
+from    from                                Built in keyword used to designate
+                                            a module or package from which to
+                                            include extra code or functions.
+import  import                              Built in keyword to pull particular
+                                            code designated by the following
+                                            following names into your program 
+                                            from the proceding package.
+argv    argv                                List of command line arguments or 
+                                            parameters passed to a function
+$       dollar sign
+.       period or dot                       Can be used to access the methods of
+                                            an object.
+open()  open                                Built in method to open a file or 
+                                            other object.
+read()  read                                Method to read a file or other 
+                                            object.
+close() close                               Method to close a file or other 
+                                            object.
+raw_input()                                 Built in method to read input from 
+                                            the command line.
+^       caret                               Often used to indicate the control
+                                            or ctrl key. Also the beginning of
+                                            a line in regular expressions.
+:       colon                               Indicates the end of a function
+                                            header.
+exists  exists                              Method to test if "something" does
+                                            exists, returns TRUE or FALSE.
+TRUE    true                                Built in boolean value.
+FALSE   false                               Built in boolean value.
+def     def                                 Keyword used to begin a function
+                                            header.
+seek()  seek                                Find a position in a file.
+readline()  readline                        Read a single line from a file or
+                                            other input source.
++=      plus equals                         Increment object on the left hand
+                                            by the value on the right hand side.
