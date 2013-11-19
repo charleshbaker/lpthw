@@ -4,7 +4,7 @@
 
 
 # create a mapping of state to abbreviation
-state = {
+states = {
         'Oregon': 'OR',
         'Florida': 'FL',
         'California': 'CA',
@@ -26,3 +26,9 @@ cities['OR'] = 'Portland'
 # print out some cities
 print '-' * 10
 print "NY State has:  ", cities['NY']
+print "OR State has:  ", cities['OR']
+
+# print out some states
+print '-' * 10
+print "Michigan's abbreviation is:  ", states['Michigan']
+print "Florida's abbreviation is:  ", states['Florida']
