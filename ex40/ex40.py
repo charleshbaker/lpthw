@@ -19,3 +19,13 @@ bulls_on_parade = Song(["They rally around the family",
 happy_bday.sing_me_a_song()
 bulls_on_parade.sing_me_a_song()
 
+row = Song(["Row, row, row your boat",
+            "Merrily down the stream"])
+
+row.sing_me_a_song()
+
+lyric = "Call me big poppa!"
+
+biggie = Song(lyric)
+
+biggie.sing_me_a_song()
