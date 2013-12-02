@@ -9,7 +9,7 @@ class Engine(object):
         pass
 
     def play(self):
-        pass
+        print "Do you want to play a game?"
 
 class Death(Scene):
 
