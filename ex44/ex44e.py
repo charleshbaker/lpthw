@@ -9,6 +9,7 @@ class Other(object):
     def altered(self):
         print "OTHER altered()"
 
+
 class Child(object):
 
     def __init__(self):
